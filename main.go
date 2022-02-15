@@ -7,6 +7,6 @@ func askQuestion() {
 }
 
 func main() {
-	fmt.Println("Hello world")
+	fmt.Println("Hello, World!")
 	askQuestion()
 }
