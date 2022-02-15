@@ -8,4 +8,5 @@ func askQuestion() {
 
 func main() {
 	fmt.Println("Hello world")
+	askQuestion()
 }
